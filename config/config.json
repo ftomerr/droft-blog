@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Droft Web",
+    "base_url": "/",
+    "favicon": "/images/logo.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo-light.png",
+    "logo_width": "60",
+    "logo_height": "60",
+    "logo_text": "droft"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "",
+    "copyright": "Designed and Developed By [Droft](https://www.youtube.com/watch?v=YPBUwtERPmM&ab_channel=WhatshouldInamethischannel)"
+  },
+  "metadata": {
+    "meta_author": "Statichunt",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Nextjs Personal Blog"
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "I will write my blog posts in Turkish or English. I will try to share information in many different areas."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": false,
+      "title": "Newsletter",
+      "content": "COMING SOON!",
+      "privacy_policy_page": "https://www.youtube.com/watch?v=YPBUwtERPmM&ab_channel=WhatshouldInamethischannel",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

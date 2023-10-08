@@ -1,0 +1,49 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Blog",
+      "url": "/",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Categories",
+          "url": "/categories"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "https://www.youtube.com/watch?v=YPBUwtERPmM&ab_channel=WhatshouldInamethischannel"
+    }
+  ]
+}
